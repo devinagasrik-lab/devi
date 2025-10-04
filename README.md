@@ -1,2 +1,2 @@
 # devi
-My first repository on GitHub
+welcome to new git hub
